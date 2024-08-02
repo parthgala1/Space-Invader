@@ -1,3 +1,5 @@
 # Space Invader
 
-'''Just run the code '''
+```sh
+Just run the code
+```
